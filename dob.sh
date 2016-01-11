@@ -1,4 +1,5 @@
 clear
+chmod +X $0
 echo "\n"
 echo "                       welcome folks"
 echo "\n"
